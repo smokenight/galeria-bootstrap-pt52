@@ -1,5 +1,6 @@
-
 # Proyecto Galerías de Imágenes con Bootstrap
+
+# Colaboradores: MHavliczek y ElioPeraza
 
 Este proyecto incluye tres ejemplos de galerías de imágenes creadas utilizando HTML y Bootstrap. Cada galería demuestra diferentes técnicas y configuraciones para mostrar imágenes de manera responsiva y atractiva, adaptándose a distintos tamaños de pantalla.
 
@@ -58,5 +59,3 @@ Las contribuciones son bienvenidas. Si deseas mejorar alguna de las galerías o 
 Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
 
 ---
-
-
